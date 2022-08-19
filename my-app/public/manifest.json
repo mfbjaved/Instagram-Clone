@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Instagram Clone",
+  "name": "Create simple Instagram Clone to learn React and JS",
   "icons": [
     {
       "src": "favicon.ico",
